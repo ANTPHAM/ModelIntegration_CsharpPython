@@ -1,0 +1,10 @@
+C:\Users\Pham Antoine\Documents\Dev\DevCuddlUpSolution\server\MachineLearning\MachineLearningTest\obj\Debug\MachineLearningTest.csprojResolveAssemblyReference.cache
+C:\Users\Pham Antoine\Documents\Dev\DevCuddlUpSolution\server\MachineLearning\MachineLearningTest\obj\Debug\MachineLearningTest.csproj.CoreCompileInputs.cache
+C:\Users\Pham Antoine\Documents\Dev\DevCuddlUpSolution\server\MachineLearning\MachineLearningTest\bin\Debug\MachineLearningTest.exe.config
+C:\Users\Pham Antoine\Documents\Dev\DevCuddlUpSolution\server\MachineLearning\MachineLearningTest\bin\Debug\MachineLearningTest.exe
+C:\Users\Pham Antoine\Documents\Dev\DevCuddlUpSolution\server\MachineLearning\MachineLearningTest\bin\Debug\MachineLearningTest.pdb
+C:\Users\Pham Antoine\Documents\Dev\DevCuddlUpSolution\server\MachineLearning\MachineLearningTest\bin\Debug\MachineLearningCsharp.dll
+C:\Users\Pham Antoine\Documents\Dev\DevCuddlUpSolution\server\MachineLearning\MachineLearningTest\bin\Debug\Python.Runtime.dll
+C:\Users\Pham Antoine\Documents\Dev\DevCuddlUpSolution\server\MachineLearning\MachineLearningTest\bin\Debug\MachineLearningCsharp.pdb
+C:\Users\Pham Antoine\Documents\Dev\DevCuddlUpSolution\server\MachineLearning\MachineLearningTest\obj\Debug\MachineLearningTest.exe
+C:\Users\Pham Antoine\Documents\Dev\DevCuddlUpSolution\server\MachineLearning\MachineLearningTest\obj\Debug\MachineLearningTest.pdb

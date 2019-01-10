@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CommonApi</name>
+    </assembly>
+    <members>
+        <member name="T:CommonApi.ErrorCode">
+            <summary>
+            List of the serveur error code
+            </summary>
+        </member>
+        <member name="F:CommonApi.ErrorCode.InvalidParameter">
+            <summary>
+            One of the input parameter is incorect
+            </summary>
+        </member>
+        <member name="F:CommonApi.ErrorCode.OrderLocked">
+            <summary>
+            Loyalty card is not in the list of active cards
+            </summary>
+        </member>
+        <member name="F:CommonApi.ErrorCode.InternalServerError">
+            <summary>
+            Exception thrown on server
+            </summary>
+        </member>
+        <member name="F:CommonApi.ErrorCode.UnknownLoyaltyCard">
+            <summary>
+            Loyalty card is not in the list of active cards
+            </summary>
+        </member>
+        <member name="F:CommonApi.ErrorCode.LoyaltyCardNotActive">
+            <summary>
+            This loyalty card is not attached to any user
+            </summary>
+        </member>
+        <member name="F:CommonApi.ErrorCode.InsufficientUserBalance">
+            <summary>
+            User balance insufficient to validate order.
+            </summary>
+        </member>
+        <member name="F:CommonApi.ErrorCode.InsufficientUserBalanceDueToOngoingService">
+            <summary>
+            User balance insufficient to validate order because an ongoing service (like beer dispenser service)
+            makes the user balance insufficient.
+            </summary>
+        </member>
+        <member name="F:CommonApi.ErrorCode.OngoingBeerService">
+            <summary>
+            Error return in case of ongoing beer service
+            </summary>
+        </member>
+        <member name="F:CommonApi.ErrorCode.UserError">
+            <summary>
+            User related error (user unknwon or information missing)
+            </summary>
+        </member>
+        <member name="F:CommonApi.ErrorCode.RateLimit">
+            <summary>
+            Returned when the rate limit has been reached
+            </summary>
+        </member>
+        <member name="T:CommonApi.GuidedActivityProductGroupType">
+            <summary>
+            Possible user selection (only one or multiple choices)
+            </summary>
+        </member>
+        <member name="F:CommonApi.GuidedActivityProductGroupType.Single">
+            <summary>
+            Can select only a single of the choice
+            (for exemple the choice of a cooking level)
+            </summary>
+        </member>
+        <member name="F:CommonApi.GuidedActivityProductGroupType.Multiple">
+            <summary>
+            Can select each choice multiple time
+            Additional ingredient in a pizza
+            </summary>
+        </member>
+        <member name="F:CommonApi.GuidedActivityProductGroupType.OneOfEachChoice">
+            <summary>
+            Can choose at most one of each choice
+            Typically the list of choice could be the list of choice which could be removed
+            </summary>
+        </member>
+        <member name="T:CommonApi.HomeState">
+            <summary>
+            Empty is default: product is showed only in catalog (including Guided Activities)
+            Carte: Product is showed on the first page of the catalog
+            Suggestion: Product is showed BEFORE the catalog is displayed to the user
+            
+            See the Guided Actitivy class for similar concepts.
+            </summary>
+        </member>
+        <member name="T:CommonApi.WorkingOrderType">
+            <summary>
+            List possible values for Working Orders
+            </summary>
+        </member>
+        <member name="F:CommonApi.WorkingOrderType.Others">
+            <summary>
+            Does not include menu.
+            Can be for salt and pepper of non-eatable products (like teddy bear).
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,15 @@
+,min,max
+user_visit,0.0,1.0
+H.NbDiners,0.0,20.0
+nb_visits,1.0,13.0
+avg_ticketU,-34.0,499.5
+pch_freq,0.0,144.0
+visit_duration,0.0,604.972616664569
+TemperatureC,-3.0,37.0
+Humidity,9.0,100.0
+DoW,1.0,7.0
+DoM,1.0,31.0
+WoY,1.0,53.0
+MoY,1.0,12.0
+QoY,1.0,4.0
+H,8.0,23.0

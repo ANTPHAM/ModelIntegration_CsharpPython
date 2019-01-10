@@ -1,0 +1,8 @@
+C:\Users\Pham Antoine\Documents\Dev\DevCuddlUpSolution\server\MachineLearning\MachineLearningCsharp\bin\x86\Debug\qt.conf
+C:\Users\Pham Antoine\Documents\Dev\DevCuddlUpSolution\server\MachineLearning\MachineLearningCsharp\bin\x86\Debug\MachineLearningCsharp.dll
+C:\Users\Pham Antoine\Documents\Dev\DevCuddlUpSolution\server\MachineLearning\MachineLearningCsharp\bin\x86\Debug\MachineLearningCsharp.pdb
+C:\Users\Pham Antoine\Documents\Dev\DevCuddlUpSolution\server\MachineLearning\MachineLearningCsharp\bin\x86\Debug\Python.Runtime.dll
+C:\Users\Pham Antoine\Documents\Dev\DevCuddlUpSolution\server\MachineLearning\MachineLearningCsharp\obj\x86\Debug\MachineLearningCsharp.csprojResolveAssemblyReference.cache
+C:\Users\Pham Antoine\Documents\Dev\DevCuddlUpSolution\server\MachineLearning\MachineLearningCsharp\obj\x86\Debug\MachineLearningCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Pham Antoine\Documents\Dev\DevCuddlUpSolution\server\MachineLearning\MachineLearningCsharp\obj\x86\Debug\MachineLearningCsharp.dll
+C:\Users\Pham Antoine\Documents\Dev\DevCuddlUpSolution\server\MachineLearning\MachineLearningCsharp\obj\x86\Debug\MachineLearningCsharp.pdb
